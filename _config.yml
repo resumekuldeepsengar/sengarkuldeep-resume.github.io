@@ -1,0 +1,50 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Kuldeep Sengar
+title: Software Engineer
+email: sengar.kuldeep@gmail.com
+website: www.sengarkuldeep.com
+# Social links
+twitter_username: kuldeep_sengar
+github_username: kuldeepsengar
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: sengarkuldeep
+# pinterest_username: jekyll
+youtube_username: KuldeepSengarSingh
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm a software engineer who can help turn businesses strategies into a viable solution. I am a believer of software craftmanship and try to demonstrate in the solutions that I build. I'm always open to new challenges.
+
+  Proficient in <mark>Java</mark> with an applied knowledge of <mark>design patterns</mark>, using frameworks like <mark>Spring</mark>, <mark>Hibernate</mark>,  and have a hands on experience on distributed caching platform like <mark>Oracle Coherence</mark>. Have experience of implementing infrastructural architecture using JMS/EMS, providing optimized solutions. Familiar with the container based deployment, with hands on experience in <mark>Redhat Openshift</mark>. Worked on standard databases like <mark>MSSQL</mark>, <mark>Oracle</mark>, <mark>MySQL</mark>. For build tools have exceptional knowledge of <mark>Ant</mark>, <mark>Maven</mark>, <mark>Gradle</mark>.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

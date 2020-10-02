@@ -1,0 +1,35 @@
+- layout: left
+  company: Deutsche Bank
+  link: db.com
+  job_title: Lead engineer
+  dates: December 2015 - Present
+  description: | # this will include new lines to allow paragraphs
+    Built and lead a high performing team to develop a central distribution service for Employee reference data that consolidates data from multiple sources and distributes it to more than 400 consumers, involving highly critical systems in the bank.
+- layout: left
+  company: RBS
+  link: rbs.in
+  job_title: Software Designer
+  dates: July 2013 - November 2015
+  description: | # this will include new lines to allow paragraphs
+    Co-developed the central grid-based Operational Data Cache (**ODC**),Using Oracle Coherence, for the bank. Wrote the robust build system to deploy ODC on Fabric Server, and exposed the service to Consumers to deploy on ODC infrastructure
+- layout: left
+  company: Opera Solutions
+  link: electrifai.net
+  job_title: Lead Engineer
+  dates: November 2010 - July 2013
+  description: | # this will include new lines to allow paragraphs
+    Architected and developed analytics dashboards for Financial clients focusing on Credit risk (**Mobiuss**) . Also Led a team of 4 people to build ETL system for the products.
+- layout: left
+  company: Sun life financials
+  link:
+  job_title: Developer
+  dates: May 2010 - November 2010
+  description: | # this will include new lines to allow paragraphs
+    Developed the application to provides mutual funds management to the customers. Helped the team build the front facing application in Adobe Flex and ColdFusion.
+- layout: left
+  company: Tata Consultancy Services
+  link:
+  job_title: Developer
+  dates: November 2007 - May 2010
+  description: | # this will include new lines to allow paragraphs
+    Architected and developed the initial version of a patented assessment application(TouchStone), now currently being used by over 100 customers at a scale of 1 million+ users for each customer. Also developed a multi-dimensional performance evaluation dashboard where management can play different scenarios of scoring patterns.

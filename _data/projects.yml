@@ -1,4 +1,8 @@
 - layout: top-middle
+  name: Reference Data Governance and Distribution System
+  description: | # this will include new lines to allow paragraphs
+    ERDS is Deutsche Bank’s central distribution and governance system for all HCM data. It is deployed on OpenShift and is built following a micro services architecture. Highly pluggable system and scalable to manage huge amount on incoming data. It provides real time as well as batch integration both for ingestion and distribution.
+- layout: top-middle
   name: ODC (Operational Data Cache)
   description: | # this will include new lines to allow paragraphs
     ODC is a highly distributed in-memory, normalized data store designed for scalable data access and processing. The data includes trades, cash flows, mark-to-market and reference data; ODC is built entirely on the oracle coherence technology and utilizing its different patterns. The system is highly critical for the bank as it works as the central data center for both the front office and back office, that makes the availability and performance a main challenge. For the consumers we have provided query apis that enables them to quickly access the data, and also subscribe to special events for future data consumption.

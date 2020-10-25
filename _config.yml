@@ -23,9 +23,9 @@ youtube_username: KuldeepSengarSingh
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software engineer who can help turn businesses strategies into a viable solution. I am a believer of software craftmanship and try to demonstrate in the solutions that I build. I'm always open to new challenges.
+  I'm a software engineer who can help turn businesses strategies into a viable solution. I'm always open to new challenges.
 
-  Proficient in <mark>Java</mark> with an applied knowledge of <mark>design patterns</mark>, using frameworks like <mark>Spring</mark>, <mark>Hibernate</mark>,  and have a hands on experience on distributed caching platform like <mark>Oracle Coherence</mark>. Have experience of implementing infrastructural architecture using JMS/EMS, providing optimized solutions. Familiar with the container based deployment, with hands on experience in <mark>Redhat Openshift</mark>. Worked on standard databases like <mark>MSSQL</mark>, <mark>Oracle</mark>, <mark>MySQL</mark>. For build tools have exceptional knowledge of <mark>Ant</mark>, <mark>Maven</mark>, <mark>Gradle</mark>.
+  I’m proficient in building large scale applications in **Java**. Well versed with designing applications with **microservice architecture** and cloud based systems deployed on **Openshift** (built on **Kubernetes**). I have built **Continuous delivery** pipelines for our applications.  Also aware of UI technologies like React. I also have good understanding of **Functional programming** and **function composition**.
 
 # Projects Section
 # projects_title: Projects

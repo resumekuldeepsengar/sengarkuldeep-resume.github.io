@@ -4,28 +4,21 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Kuldeep Sengar
-title: Software Engineer
+title: Engineering Lead
 email: sengar.kuldeep@gmail.com
 website: sengarkuldeep.com
 # Social links
 twitter_username: kuldeep_sengar
 github_username: kuldeepsengar
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
 linkedin_username: sengarkuldeep
-# pinterest_username: jekyll
 youtube_username: KuldeepSengarSingh
-# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software engineer who can help turn businesses strategies into a viable solution. I'm always open to new challenges.
-
-  I’m proficient in building large scale applications in **Java**. Well versed with designing applications with **microservice architecture** and cloud based systems deployed on **Openshift** (built on **Kubernetes**). I have built **Continuous delivery** pipelines for our applications.  Also aware of UI technologies like React. I also have good understanding of **Functional programming** and **function composition**.
+Engineering Leader with 15+ years of diverse experience working across high-growth startups like Gojek, as well as, top-tier investment Banks like Deutsche Bank and RBS. Have a rich experience in leading complex projects from early vision to a workable solution. Hands on in engineering, comfortable taking multiple responsibilities as backend architect or manage teams/projects.
+I'm proficient in building large scale applications that could work under high load. I'm also passionate about helping team grow by mentoring engineers and driving continual improvement initiatives on engineering practices - especially around coding, testing, devops and SRE.
 
 # Projects Section
 # projects_title: Projects

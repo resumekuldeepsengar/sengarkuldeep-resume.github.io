@@ -18,6 +18,7 @@ about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Engineering Leader with 15+ years of diverse experience working across high-growth startups like Gojek, as well as, top-tier investment Banks like Deutsche Bank and RBS. Have a rich experience in leading complex projects from early vision to a workable solution. 
+  
   I have a strong proficiency in developing large-scale applications that can handle high loads. Additionally, I am deeply passionate about fostering team growth by providing mentorship to engineers and driving continuous improvement initiatives in engineering practices, particularly in areas such as coding, testing, DevOps, and SRE.
 
 # Projects Section

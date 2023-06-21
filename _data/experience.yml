@@ -1,10 +1,20 @@
 - layout: left
-  company: Deutsche Bank
-  link: db.com
+  company: Gojek Tech
+  link: https://www.gojek.io/
   job_title: Lead engineer
   dates: December 2015 - Present
   description: | # this will include new lines to allow paragraphs
-    Built and lead a high performing team to develop a central distribution service for Employee reference data that consolidates data from multiple sources and distributes it to more than 400 consumers, involving highly critical systems in the bank.
+    In Gojek I am leading the Allocations team responsible for finding and allocating the best driver for a given order. It is one of the most critical services of Gojek processing more than 3 million orders a day. 
+    **Highlights**
+    - Overhauled the allocations service to provide an alternate way of allocations by aggregating the demand over time and applying objective functions to optimize the allocation pipeline. 
+    - Led the migration of the services in Marketplace from VMs to kubernetes without any downtime to achieve a greater elasticity and scalability. This has saved more than $ 200k per year for the company.
+- layout: left
+  company: Deutsche Bank
+  link: db.com
+  job_title: Lead engineer
+  dates: December 2015 - February 2021
+  description: | # this will include new lines to allow paragraphs
+    I have built and led a high-performing team tasked with developing a centralized distribution service for Employee reference data. This service effectively consolidates information from various sources and distributes it to over 400 consumers, including critical systems within the bank.
 - layout: left
   company: RBS
   link: rbs.in

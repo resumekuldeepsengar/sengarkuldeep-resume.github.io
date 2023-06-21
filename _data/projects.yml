@@ -1,4 +1,5 @@
 - layout: left
+  border: weak
   name: Allocation Service
   description: | # this will include new lines to allow paragraphs
     Allocation Service aims to allocate the best driver for a given order, based on the demand and supply situation. It is one of the most critical services and plays a significant role in the functioning of Gojek, with more than 3 million orders requiring allocation, which constitutes almost all bookings on the platform. 

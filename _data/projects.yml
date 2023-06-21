@@ -1,34 +1,34 @@
-- layout: top-middle
+- layout: left
   name: Allocation Service
   description: | # this will include new lines to allow paragraphs
     Allocation Service aims to allocate the best driver for a given order, based on the demand and supply situation. It is one of the most critical services and plays a significant role in the functioning of Gojek, with more than 3 million orders requiring allocation, which constitutes almost all bookings on the platform. 
     
     This application has a multiple component written primarily in **Clojure** and **Golang**. It is deployed on *GCP* and we use **Gitlab** as VCS and CI/CD tool. 
-- layout: top-middle
+- layout: left
   name: ERDS (Employee Reference Data Store)
   description: | # this will include new lines to allow paragraphs
     ERDS is Deutsche Bank’s central distribution and governance system for all HCM data. It is deployed on OpenShift and is built following a micro services architecture. Highly pluggable system and scalable to manage huge amount on incoming data. It provides real time as well as batch integration both for ingestion and distribution.
 
     This application is completely in **Java** and deployed on **Openshift**. We used our own *Helm charts* to define our infrastructure. We used **Bitbucket** as VCS and used Teamcity as our CI/CD tool.
-- layout: top-middle
+- layout: left
   name: ODC (Operational Data Cache)
   description: | # this will include new lines to allow paragraphs
     ODC is a highly distributed in-memory, normalized data store designed for scalable data access and processing. The data includes trades, cash flows, mark-to-market and reference data; ODC is built entirely on the oracle coherence technology and utilizing its different patterns. The system is highly critical for the bank as it works as the central data center for both the front office and back office, that makes the availability and performance a main challenge. For the consumers we have provided query apis that enables them to quickly access the data, and also subscribe to special events for future data consumption.
 
     This application is written in **Java** and deployed on **GridServer** by *Tibco*. 
-- layout: top-middle
+- layout: left
   name: Mobiuss
   description: | # this will include new lines to allow paragraphs
     Family of fully integrated valuation, surveillance, and risk management platform for RMBS and whole loans that lets you scrutinize and stress test each bond to the granular level. This solution provides traders a view of current market stats and also enable them to run simulations on their prices. A trader can look at all the dimensions of the positions that he/she is interested and decide upon. For it is used by traders, the precision of calculations and presentation of data has been an utmost priority. Performance was also an important factor, mining a dataset of millions of positions in a real time was a challenge. System was built and delivered custom alakarte selection from variety of  components.
     
     This application is written in **Java** and deployed on VM servers via **Jenkins** CI/CD pipelines. 
-- layout: top-middle
+- layout: left
   name: Bond Market Spread Platform
   description: | # this will include new lines to allow paragraphs
     The product aims at providing the client facility to monitor the market spread of bonds on a daily basis, providing multi-dimensional view of bond distribution. Built with keen importance to availability and accuracy of data calculation, the mechanism for hot hot DR was added to the architecture. continuous nightly builds were provided both for staging deployment and data quality test runs. Once built, only 2 man hours were needed maintain the application.
     
     This application is written in **Java** and deployed on VM servers via **Jenkins** CI/CD pipelines. 
-- layout: top-middle
+- layout: left
   name: TouchStone
   description: | # this will include new lines to allow paragraphs
     TouchStone is a generic, scalable and secured online examination system. Delivered in SaaS (Software as a Service) model. Built at iGrid TCS (Ignite Group for Research Innovation & Development). The system has been patented for its security feature, one of a kind architecture for assessment tools. A genius question paper generator, using different statistical principles. users can vary from 1-100 millions without crashing the system.
